@@ -1,0 +1,6 @@
+TraceGuard Findings Report
+==========================
+Rule: Repeated Failed Login | User: Rahul | Risk Points: 40
+Rule: Repeated Denied File Access | User: Sneha | Risk Points: 35
+
+Total cases: 1
